@@ -29,7 +29,7 @@ Email [klychkovaoksana0315@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 ###  Технические навыки
 **Программирование & Анализ**  
-`Python` (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, SciPy, Phi_K)  
+`Python` (Pandas, Matplotlib/Seaborn)  
 `SQL` (PostgreSQL, оконные функции, оптимизация)  
 `Статистика` (A/B-тесты, корреляционный анализ)  
 
