@@ -62,8 +62,15 @@ Email [klychkovaoksana0315@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 [**Проект 3: Рынок недвижимости**]  https://github.com/Ksn-klychkova/Real-estate-market-analysis
   
 > Цель: разработать аналитический дашборд, который поможет определить наиболее привлекательные сегменты недвижимости и понять сезонные тенденции на рынке Санкт-Петербурга и городов Ленинградской области
+> 
+[**Проект 4: Изучение рынка заведений общественного питания Москвы**]  [https://github.com/Ksn-klychkova/Real-estate-market-analysis](https://github.com/Ksn-klychkova/Market_reserch)
+Использован `Jupyter Notebook`
+> Цель:
 
 
+[**Проект 5: Исследование стартапов**] https://github.com/Ksn-klychkova/Startup-research
+Использован `Jupyter Notebook`
+ > Цель:Подготовить датасет к работе, исследовать динамику и структуру финансирования стартапов и ответить на вопросы, важные для оценки инвестиционных стратегий.
 ---
 
 ### 💼 Опыт работы
