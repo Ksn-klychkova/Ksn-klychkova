@@ -46,7 +46,7 @@ Email [klychkovaoksana0315@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 ###  Учебные проекты
 
-Проекты выполнены в `DBeaver`, `DataLens`
+Проекты выполнены в `DBeaver`, `DataLens`, `Jupyter Notebook`
 
 [**Проект 1: «Секреты Темнолесья»**]d)  https://github.com/Ksn-klychkova/Secrets-of-the-Darkwood
 
