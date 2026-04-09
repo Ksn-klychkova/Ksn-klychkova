@@ -1,6 +1,6 @@
 # Оксана Александровна
-**Аналитик данных | Data Scientist**   
-`Python` `SQL` `Статистика` `DataLens`  
+**Аналитик данных | Продуктовый аналитик**   
+`Python` `SQL` `Статистика` `DataLens` `Жизненный цикл и метрики продуктов` 
 
 Email [klychkovaoksana0315@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
