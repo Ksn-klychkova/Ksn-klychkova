@@ -116,7 +116,7 @@ Email [klychkovaoksana0315@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 - Перенесла архивные данные, для обеспечения целостности истории и работы компании
 -контролировала сроки исполнения задач в таск досках
 
-#### АО «НИИ «Вектор» / Государственной корпорации «Ростех» <img src="https://logo-teka.com/wp-content/uploads/2025/10/rostec-logo-eng.svg" alt="Логотип Ростех" width="200">
+#### АО «НИИ «Вектор» / Государственной корпорации «Ростех» <img src="https://logo-teka.com/wp-content/uploads/2025/10/rostec-logo-eng.svg" alt="Логотип Ростех" width="40">
 **Аналитик отдела маркетинга (май 2026 - по настоящее время)**
 
 ---
